@@ -1,0 +1,48 @@
+[
+    {
+      "image": "https://example.com/images/product124.jpg",
+      "name": "Casual T-Shirt",
+      "size": "L",
+      "category":"Women",
+      "color": "White",
+      "series": "Summer Collection 2024",
+      "price": "19.99"
+    },
+    {
+      "image": "https://example.com/images/product125.jpg",
+      "name": "Denim Jeans",
+      "size": "32",
+      "category":"Women",
+      "color": "Blue",
+      "series": "Classic Denim",
+      "price": "49.99"
+    },
+    {
+      "image": "https://example.com/images/product126.jpg",
+      "name": "Leather Boots",
+      "size": "9",
+      "category":"Women",
+      "color": "Brown",
+      "series": "Winter Collection 2024",
+      "price": "129.99"
+    },
+    {
+      "image": "https://example.com/images/product127.jpg",
+      "name": "Evening Dress",
+      "size": "S",
+      "category":"Women",
+      "color": "Red",
+      "series": "Spring Gala 2024",
+      "price": "89.99"
+    },
+    {
+      "image": "https://example.com/images/product128.jpg",
+      "name": "Sports Jacket",
+      "size": "XL",
+      "category":"Women",
+      "color": "Grey",
+      "series": "Active Wear",
+      "price": "59.99"
+    }
+  ]
+  
